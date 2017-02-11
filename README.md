@@ -1,1 +1,1 @@
-Accelerated Mobile Page DHSICC2017
+Accelerated Mobile Page
